@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# 使用第三方工具shenzhen(https://github.com/nomad/shenzhen)进行自动化打包
+
 PROJECT_DIR="/Users/kesen./Desktop/Repository/YouPinGuPiaoTong"
 
 USER_KEY="b3fe10ea230d1c593799975ab127e96a"
